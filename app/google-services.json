@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "980680677372",
+    "firebase_url": "https://uas-akb-980df-default-rtdb.firebaseio.com",
+    "project_id": "uas-akb-980df",
+    "storage_bucket": "uas-akb-980df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980680677372:android:9a0305c838d80cd4adc479",
+        "android_client_info": {
+          "package_name": "com.uas.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980680677372-jgcr34tjvfac31gohtffop61cd2ncp7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uas.notes",
+            "certificate_hash": "276f0ee69017a64b9982c2b7fa8269056f6a8ab9"
+          }
+        },
+        {
+          "client_id": "980680677372-ac9pjorhuhf71h37k66kbbhhr3nk1ct6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6lH3pU5QF2tcdFCjVVaGXP-1gVapyqPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980680677372-74tnotkm75788b606p14kvbstshadd0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
